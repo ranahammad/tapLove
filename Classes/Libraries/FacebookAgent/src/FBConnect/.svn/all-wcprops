@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect
+END
+FBFeedDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBFeedDialog.h
+END
+FBSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBSession.h
+END
+FBLoginButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBLoginButton.h
+END
+FBLoginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBLoginDialog.h
+END
+FBPermissionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBPermissionDialog.h
+END
+FBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBRequest.h
+END
+FBConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBConnect.h
+END
+FBConnectGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBConnectGlobal.h
+END
+FBStreamDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBStreamDialog.h
+END
+FBDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/uc2/!svn/ver/10/iphone/trunk/Classes/FacebookAgent/src/FBConnect/FBDialog.h
+END

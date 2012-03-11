@@ -1,0 +1,13 @@
+
+Back Button			72.3 / 17.8
+Heart Animation Frames		162.2 / 22.6
+Menu Button			258.2 / 17.8
+Your Lovers Name Text		241.5 , 90.2
+Your Name Text			81 / 90.2
+Box 1				79 , 116.7
+Box 2				241.2 / 116.7
+Needle				164 / 267.6 
+Needle Controller Circle	165.2 / 304.6
+Calcuelate Button		263 / 417.3
+Reset Button			46.3 / 417.3
+Next Button			163.3 / 456.5
